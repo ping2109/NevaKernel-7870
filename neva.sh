@@ -3,7 +3,7 @@
 NEVA_NAME="NevaCore 3.0"
 NEVA_VARIANT="exynos7870"
 DEFCONF=exynos7870-j7xelte_defconfig
-KERN_VER=" - NevaCore 3.0"
+KERN_VER=" - NevaCore 3.0 [j7xelte]"
 
 export LOCALVERSION=$KERN_VER
 export ARCH=arm64

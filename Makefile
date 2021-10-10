@@ -1,8 +1,8 @@
 VERSION = 3
 PATCHLEVEL = 18
-SUBLEVEL = 140
+SUBLEVEL = 150
 EXTRAVERSION =
-NAME = Diseased Newt
+NAME = NevaCore
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
