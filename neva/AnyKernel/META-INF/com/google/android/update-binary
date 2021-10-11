@@ -162,6 +162,7 @@ if [ "$supported_ver" ]; then
     done;
   fi;
   if [ "$supported" ]; then
+    ui_print "x Android version is supported";
   else
     abort "x Unsupported Android version. Aborting";
   fi;
