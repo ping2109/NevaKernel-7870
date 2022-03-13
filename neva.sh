@@ -8,7 +8,7 @@ KERN_VER=" - NevaCore 3.0 [j7xelte]"
 export LOCALVERSION=$KERN_VER
 export ARCH=arm64
 # export CROSS_COMPILE=/home/ping2109/Downloads/old compiler/bin/aarch64_be-none-linux-gnu-
-export CROSS_COMPILE=/home/ping2109/Downloads/compiler/bin/aarch64-none-linux-gnu-
+# export CROSS_COMPILE=/home/ping2109/Downloads/compiler/bin/aarch64-none-linux-gnu-
 export ANDROID_MAJOR_VERSION=q
 export ANDROID_PLATFORM_VERSION=10
 
